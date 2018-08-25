@@ -1,0 +1,9 @@
+server:
+  port: 8086
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: Jiang123!
+    url: jdbc:mysql://106.12.13.238:3306/nettychat?characterEncoding=utf-8&useSSL=false
